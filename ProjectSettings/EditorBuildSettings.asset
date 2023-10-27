@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Lynx/Samples/Basic/Scenes/1_ARVR.unity
+    guid: fdebd2a19f0abb7478948ac6226b71ce
+  - enabled: 1
+    path: Assets/Lynx/Samples/Basic/Scenes/0_HeadPose.unity
+    guid: 01daf1fbe0244054385671d58d28f44a
+  - enabled: 1
+    path: Assets/Lynx/Samples/Basic/Scenes/2_ARVRCallback.unity
+    guid: ca6a004bc85e1de459ee35747bc56ed0
+  - enabled: 1
+    path: Assets/Lynx/Samples/Basic/Scenes/3_FullARMode.unity
+    guid: 7e9ac5dff46308a4384abc811ebf5407
+  - enabled: 1
+    path: Assets/Lynx/Samples/Basic/Scenes/4_AudioVolumeIndicator.unity
+    guid: 460d374f1190d734290a41abd6da2828
+  - enabled: 1
+    path: Assets/Lynx/Samples/HandTracking/Scenes/Handtracking.unity
+    guid: 5d697469ec0b1094c84fba180e7583fb
+  - enabled: 1
+    path: Assets/Lynx/Samples/HandTracking/Scenes/LynxInterfaces.unity
+    guid: 9f41868fc19f88e4f9b3a29215c4f281
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 1879c2dac27f2f847a3440a1f1ea5051,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d5123d277154a7741bafc742034ad75e,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5b91369eb20e4934b86e768282f31f0d,
+      type: 2}
