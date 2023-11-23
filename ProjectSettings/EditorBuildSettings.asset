@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_Project/Temporary/Scene/GanjaKnightSpace.unity
+    guid: c65b2e660b0c23d4b8b76ccc7c2583e8
+  - enabled: 1
+    path: Assets/_Project/Temporary/Scene/ScanPixelToSideQuest.unity
+    guid: a54389679bc965044aa9839d18a2686e
+  - enabled: 1
+    path: Assets/_Project/Temporary/Scene/FrontFaceCameras.unity
+    guid: a1806b10fefcc6d4b8a78225afc8dbff
+  - enabled: 1
+    path: Assets/_Project/2023_10_28_XboxToDrone/XboxDroneLynx.unity
+    guid: c47ebe73398113f44a85db58bb7d21ef
+  - enabled: 1
     path: Assets/Lynx/Samples/Basic/Scenes/1_ARVR.unity
     guid: fdebd2a19f0abb7478948ac6226b71ce
   - enabled: 1
@@ -21,13 +33,12 @@ EditorBuildSettings:
     path: Assets/Lynx/Samples/Basic/Scenes/4_AudioVolumeIndicator.unity
     guid: 460d374f1190d734290a41abd6da2828
   - enabled: 1
-    path: Assets/Lynx/Samples/HandTracking/Scenes/Handtracking.unity
-    guid: 5d697469ec0b1094c84fba180e7583fb
-  - enabled: 1
     path: Assets/Lynx/Samples/HandTracking/Scenes/LynxInterfaces.unity
     guid: 9f41868fc19f88e4f9b3a29215c4f281
   m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: 1879c2dac27f2f847a3440a1f1ea5051,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 52e368f5da1a9a542bb4c376d6e2caed,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: e56a3c17ffa7c4f47b21f3252110b78d,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d5123d277154a7741bafc742034ad75e,
       type: 2}

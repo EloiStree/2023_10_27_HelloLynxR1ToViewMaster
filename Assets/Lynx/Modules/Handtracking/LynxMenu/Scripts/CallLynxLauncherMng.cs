@@ -14,7 +14,7 @@ namespace Lynx
 
 
 
-            /*
+            
             bool fail = false;
 
             AndroidJavaClass up = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
@@ -52,8 +52,8 @@ namespace Lynx
 
             // is it useful ?
             //Debug.Log("@@@@@@@@@@@@@@ Before Application quit called @@@@@@@@@@@@@@ ");
-            //Application.Quit();
-            */
+            Application.Quit();
+            
 
         }
 
@@ -101,7 +101,7 @@ namespace Lynx
 
             // is it useful ?
             //Debug.Log("@@@@@@@@@@@@@@ Before Application quit called @@@@@@@@@@@@@@ ");
-            //Application.Quit();
+            Application.Quit();
 
 
 

@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.carrcexost",                              
+  "displayName": "RC Car Exost",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Small page to start a Exost car project.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"git@github.com-EloiStree:EloiStree/2023_10_27_HelloLynxR1ToViewMaster.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

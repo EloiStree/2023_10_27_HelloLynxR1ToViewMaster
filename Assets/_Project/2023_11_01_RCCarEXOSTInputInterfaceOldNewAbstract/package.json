@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.carrcexostinputinterface",                              
+  "displayName": "RC Car EXOST Input Interface",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Input interface for Car RC type of car.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2023_11_01_RCCarEXOSTInputInterfaceOldNewAbstract.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

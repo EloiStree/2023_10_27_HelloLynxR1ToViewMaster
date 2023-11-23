@@ -55,6 +55,11 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+Assets/Lynx/Modules/Capture/Plugins/Android/libs/arm64-v8a/qxrcoreservice.aar
+*qxrcoreservice.aar
+*coreservice.aar
+*/qxrcoreservice.aar
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 

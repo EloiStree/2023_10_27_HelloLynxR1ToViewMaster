@@ -1,0 +1,32 @@
+{
+<<<<<<< HEAD
+    "name": "be.eloistree.overrideandroidvolume",
+    "displayName": "Override Android Volume buttons",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Allows to override the volume button on Android. (Tested and design for the Quest)",
+    "keywords": [
+        "Tool",
+        "Script",
+        "Override",
+        "Volume"
+    ],
+    "category": "Script"
+}
+=======
+            "name": "be.eloiexperiments.overrideandroidvolume",
+  "displayName": "Override Android Volume buttons",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Allows to override the volume button on Android. (Tested and design for the Quest)",
+  "keywords": [
+"Tool",
+"Script",
+"Override",
+"Volume"
+  ],
+  "category": "Script",
+  "dependencies": {"be.eloistree.license":"0.0.1"
+        }
+}
+>>>>>>> bb8773e03e190c403ad64f959ad456cdca039137

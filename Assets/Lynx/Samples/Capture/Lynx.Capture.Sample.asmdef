@@ -1,0 +1,16 @@
+{
+    "name": "Lynx.Capture.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7970a4a75f7689c4c9912b8a0dffdea2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

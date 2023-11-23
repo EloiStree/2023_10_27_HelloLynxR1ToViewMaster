@@ -20,10 +20,11 @@ public class Test_DestroyCameraMobilityAndReset : MonoBehaviour
     void Start()
     {
         Invoke("Apply", m_activationTime);
-        StartCoroutine(ChangeBackground());
+        if(m_useTextureChanged) StartCoroutine(ChangeBackground());
     }
 
     int m_index = 0;
+    public bool m_useTextureChanged;
     private IEnumerator ChangeBackground()
     {
         while (true) {
